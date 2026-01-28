@@ -1,3 +1,6 @@
 Ola Harrison 
+<<<<<<< HEAD
 My first git file 
 Linha com conflito
+=======
+>>>>>>> 6f95206517e973727670fbd6b9a94fcb4764b09c
